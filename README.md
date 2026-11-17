@@ -51,3 +51,5 @@ Responsividade com Media Queries.
 👨‍💻 Autor
 
 Desenvolvido durante meus estudos de desenvolvimento web.
+
+https://github.com/henriquegalegobarros-maker/Buscador-de-contatos/blob/main/assets/Captura%20de%20tela%202026-11-171%20183822.png?raw=true
