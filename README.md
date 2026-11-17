@@ -52,6 +52,7 @@ Responsividade com Media Queries.
 
 Desenvolvido durante meus estudos de desenvolvimento web.
 
+Essa primeira imagem é como fica no celular e a segunda é como fica no PC.
 https://github.com/henriquegalegobarros-maker/Buscador-de-contatos/blob/main/assets/Captura%20de%20tela%202026-11-171%20183822.png?raw=true
 
 https://github.com/henriquegalegobarros-maker/Buscador-de-contatos/blob/main/assets/Captura%20de%20tela%202026-11-172%20183854.png?raw=true
